@@ -3,10 +3,10 @@
 This repository contains development logs for the game "The Dark Island Prototype 2D." It includes updates and feature implementations throughout the game's development.
 
 **Video Demo Preview:**  
-[The Dark Island](https://youtu.be/xxxxxx)
+[The Dark Island](https://youtu.be/bNAjUr0yVFI)
 
 **Link to Game Demo (Windows & Android):**  
-[The Dark Island](https://xxxxxx.itch.io/the-dark-island)
+[The Dark Island](https://arunikapremastudio.itch.io/the-dark-island)
 
 > “Saat ini, game yang sedang dikembangkan belum memiliki tujuan komersial. Saya mengembangkan game ini sebagai sarana pembelajaran mandiri, melalui berbagai proses *trial* dan *error* untuk memahami setiap proses dalam pengembangan game. Jika suatu saat saya memutuskan untuk mengarah ke tujuan komersial, kemungkinan besar versi tersebut akan sangat berbeda dari prototipe ini, termasuk juga kemungkinan beralih dari format *2D*.”
 
